@@ -110,7 +110,7 @@ void Medicion(){// aca mediremos el tiempo q demora cada algoritmo con n: 1000, 
 
         cout<< " Lineal : cuando n es " << n << " se demora " << tiempo.count() <<endl;
 
-        /*
+        
 
         //-------------------------------- CUADRATICO------------------------
         
@@ -136,7 +136,7 @@ void Medicion(){// aca mediremos el tiempo q demora cada algoritmo con n: 1000, 
 
         cout<< " cubo : cuando n es " << n << " se demora " << tiempo.count() <<endl<<endl;
         
-        */
+        
     }
 } 
 
